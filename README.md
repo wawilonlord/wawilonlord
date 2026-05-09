@@ -25,8 +25,8 @@ Notes, tools, and labs for learning cybersecurity.
 
 ## Repositories
 
+- [security-tools-dashboard](https://github.com/wawilonlord/security-tools-dashboard)
 - `termux-lab`
-- `security-tools`
 - `ethical-hacking-notes`
 
 ## Rule
