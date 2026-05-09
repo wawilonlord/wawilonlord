@@ -1,16 +1,34 @@
-## Hi there 👋
+# Ethical Hacking
 
-<!--
-**wawilonlord/wawilonlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Notes, tools, and labs for learning cybersecurity.
 
-Here are some ideas to get you started:
+## Topics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux
+- Networking
+- Web security
+- Termux
+- Python
+- Bash
+
+## Tools
+
+- Nmap
+- Netcat
+- curl
+- Git
+- Python
+- Burp Suite
+- OWASP ZAP
+- ffuf
+- gobuster
+
+## Repositories
+
+- `termux-lab`
+- `security-tools`
+- `ethical-hacking-notes`
+
+## Rule
+
+Only legal testing and educational labs.
